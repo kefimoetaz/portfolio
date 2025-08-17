@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaGithub, FaUnity, FaReact } from 'react-icons/fa';
-import { SiThreejs, SiWebgl, SiMongodb, SiWebxr } from 'react-icons/si';
+import { SiThreedotjs, SiWebgl, SiMongodb, SiWebex } from 'react-icons/si';
 
 export default function TrailProject() {
   return (
